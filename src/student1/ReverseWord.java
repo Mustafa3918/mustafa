@@ -2,7 +2,7 @@
 package student1;
 
 import java.util.Scanner;
-
+// Author Mustafa
 public class ReverseWord {
         public static void main(String[] args){
             /* char[] myWord = new char[7];
